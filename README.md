@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi Everybody!
+I am learning site creation.
